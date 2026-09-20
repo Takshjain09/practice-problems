@@ -1,6 +1,0 @@
-numbers = (10,20,30,40,50)
-maximum = max(numbers)
-minimum = min(numbers)
-print("Tuple: ", numbers)
-print("Maximum number: ", maximum)
-print("Minimum number: ", minimum)
